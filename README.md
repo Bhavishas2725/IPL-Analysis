@@ -237,9 +237,9 @@ USE ipl_analysis;
 | Page | Preview |
 |---|---|
 | Overview | ![Overview](Dashboard/Overview.png) |
-| Batting | ![Batting](Dashboard/Batting Analysis.png) |
-| Bowling | ![Bowling](Dashboard/Bowling Analysis.png) |
-| Venue | ![Venue](Dashboard/Venue and Insights.png) |
+| Batting | ![Batting](Dashboard/Batting_Analysis.png) |
+| Bowling | ![Bowling](Dashboard/Bowling_Analysis.png) |
+| Venue | ![Venue](Dashboard/Venue_and_Insights.png) |
 
 ---
 

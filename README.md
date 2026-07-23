@@ -233,11 +233,10 @@ USE ipl_analysis;
 
 ##  Dashboard Screenshots
 
-*(Add your dashboard screenshots here after uploading to GitHub)*
 
 | Page | Preview |
 |---|---|
-| Overview | ![Overview](screenshots/overview.png) |
+| Overview | ![Overview]() |
 | Batting | ![Batting](screenshots/batting.png) |
 | Bowling | ![Bowling](screenshots/bowling.png) |
 | Venue | ![Venue](screenshots/venue.png) |
@@ -256,7 +255,7 @@ USE ipl_analysis;
 
 ---
 
-## 📄 License
+##  License
 
 This project is open source and available under the [MIT License](LICENSE).
 

@@ -203,8 +203,8 @@ ipl-performance-analysis/
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/Bhavishas2725/ipl-performance-analysis.git
-cd ipl-performance-analysis
+git clone https://github.com/Bhavishas2725/IPL-Analysis.git
+cd IPL-Analysis
 ```
 
 **2. Install Python dependencies:**
@@ -214,7 +214,7 @@ pip install pandas numpy matplotlib jupyter
 
 **3. Run the cleaning notebook:**
 ```bash
-jupyter notebook notebooks/ipl_cleaning.ipynb
+jupyter notebook notebooks/Cleaning.ipynb
 ```
 
 **4. Set up MySQL database:**
@@ -226,7 +226,7 @@ USE ipl_analysis;
 ```
 
 **5. Open Power BI dashboard:**
-- Open `dashboard/IPL_Dashboard.pbix` in Power BI Desktop
+- Open `dashboard/Project 1.pbix` in Power BI Desktop
 - Refresh data source to point to your local CSV files
 
 ---
@@ -236,10 +236,10 @@ USE ipl_analysis;
 
 | Page | Preview |
 |---|---|
-| Overview | ![Overview]() |
-| Batting | ![Batting](screenshots/batting.png) |
-| Bowling | ![Bowling](screenshots/bowling.png) |
-| Venue | ![Venue](screenshots/venue.png) |
+| Overview | ![Overview](Dashboard/Overview.png) |
+| Batting | ![Batting](Dashboard/Batting Analysis.png) |
+| Bowling | ![Bowling](Dashboard/Bowling Analysis.png) |
+| Venue | ![Venue](Dashboard/Venue and Insights.png) |
 
 ---
 
